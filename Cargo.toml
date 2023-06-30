@@ -1,0 +1,11 @@
+[package]
+name = "vector_fields_files"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[workspace]
+
+[dependencies]
+vec_field_files = { path = "vec_field_files" }
+
